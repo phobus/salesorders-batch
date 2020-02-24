@@ -1,0 +1,21 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Order ID,Ship Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+Sub-Saharan Africa,Cape Verde,Clothes,Online,C,9/8/2014,821912801,10/3/2014,1117,109.28,35.84,122065.76,40033.28,82032.48
+Sub-Saharan Africa,Senegal,Household,Offline,L,8/27/2012,247802054,9/8/2012,8989,668.27,502.54,6007079.03,4517332.06,1489746.97
+Australia and Oceania,Federated States of Micronesia,Snacks,Online,C,9/3/2012,531023156,10/15/2012,407,152.58,97.44,62100.06,39658.08,22441.98
+Europe,Bulgaria,Clothes,Online,L,8/27/2010,880999934,9/16/2010,6313,109.28,35.84,689884.64,226257.92,463626.72
+Middle East and North Africa,Algeria,Personal Care,Online,H,2/20/2011,127468717,3/9/2011,9681,81.73,56.67,791228.13,548622.27,242605.86
+Asia,Mongolia,Clothes,Online,L,12/12/2015,770478332,1/24/2016,515,109.28,35.84,56279.20,18457.60,37821.60
+Central America and the Caribbean,Grenada,Cereal,Online,H,10/28/2012,430390107,11/13/2012,852,205.70,117.11,175256.40,99777.72,75478.68
+Central America and the Caribbean,Grenada,Beverages,Online,M,1/30/2017,397877871,3/20/2017,9759,47.45,31.79,463064.55,310238.61,152825.94
+Sub-Saharan Africa,Senegal,Beverages,Offline,M,10/22/2014,683927953,11/4/2014,8334,47.45,31.79,395448.30,264937.86,130510.44
+North America,Greenland,Fruits,Offline,M,1/31/2012,469839179,2/22/2012,4709,9.33,6.92,43934.97,32586.28,11348.69
+Sub-Saharan Africa,Chad,Meat,Offline,H,1/20/2016,357222878,3/9/2016,9043,421.89,364.69,3815151.27,3297891.67,517259.60
+Sub-Saharan Africa,Mauritius ,Personal Care,Online,C,1/1/2016,118002879,1/7/2016,8529,81.73,56.67,697075.17,483338.43,213736.74
+Middle East and North Africa,Morocco,Beverages,Offline,C,6/1/2017,944415509,6/23/2017,2391,47.45,31.79,113452.95,76009.89,37443.06
+Central America and the Caribbean,Honduras,Office Supplies,Online,H,6/30/2015,499009597,7/9/2015,6884,651.21,524.96,4482929.64,3613824.64,869105.00
+Sub-Saharan Africa,Benin,Fruits,Online,L,1/28/2014,564646470,3/16/2014,293,9.33,6.92,2733.69,2027.56,706.13
+Europe,Greece,Baby Food,Offline,M,4/8/2014,294499957,4/8/2014,7937,255.28,159.42,2026157.36,1265316.54,760840.82
+Central America and the Caribbean,Jamaica,Beverages,Offline,L,9/4/2010,262056386,10/24/2010,7163,47.45,31.79,339884.35,227711.77,112172.58
+Sub-Saharan Africa,Equatorial Guinea,Office Supplies,Online,M,5/2/2010,211114585,5/14/2010,2352,651.21,524.96,1531645.92,1234705.92,296940.00
+Sub-Saharan Africa,Swaziland,Office Supplies,Offline,H,10/3/2013,405785882,10/22/2013,9915,651.21,524.96,6456747.15,5204978.40,1251768.75
+Central America and the Caribbean,Trinidad and Tobago,Vegetables,Offline,M,3/6/2011,280494105,4/14/2011,3294,154.06,90.93,507473.64,299523.42,207950.22

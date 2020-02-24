@@ -1,0 +1,38 @@
+version: '3.1'
+
+networks:
+  home-dev:
+    driver: bridge
+
+volumes:
+  orders-mysql57:
+
+services:
+
+  home-dev.mysql57:
+    container_name: home-dev.mysql57
+    image: mysql:5.7
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    volumes:
+      - orders-mysql57:/var/lib/mysql
+      - ../resources/sql:/docker-entrypoint-initdb.d
+    networks:
+      - home-dev
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_DATABASE: "salesorders"
+      MYSQL_USER: "salesorders"
+      MYSQL_PASSWORD: "salesorders"
+      MYSQL_ROOT_PASSWORD: "root"
+      MYSQL_ALLOW_EMPTY_PASSWORD: "no"
+
+  home-dev.adminer:
+    container_name: home-dev.adminer
+    image: adminer
+    restart: always
+    networks:
+      - home-dev
+    ports:
+      - 8080:8080

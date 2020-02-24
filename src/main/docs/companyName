@@ -1,0 +1,40 @@
+El ejercicio a realizar consiste en ordenar e importar unos datos de pedidos. 
+
+Dado un fichero .csv con registros de pedidos, la aplicación deberá generar otro fichero con los registros ordenados por número de pedido. Además de eso deberá importar en una BD todos esos datos; y mostrar, al terminar el procesado, un resumen del número de pedidos de cada tipo según distintas columnas.
+
+Para realizar el ejercicio adjuntamos links para descargar 2 ficheros, con la misma estructura de datos (usando como separador la coma <,>):
+
+Region
+Country
+Item Type
+Sales Channel
+Order Priority
+Order Date
+Order ID
+Ship Date
+Units Sold
+Unit Price
+Unit Cost
+Total Revenue
+Total Cost
+Total Profit
+
+Objetivos del ejercicio:
+
+La aplicación recibirá como parámetro de entrada el path del fichero a procesar.
+El campo por el que tiene que estar ordenado el fichero resultante es orderId.
+En el resumen final deberá salir el conteo por cada tipo de los campos: Region, Country, Item Type, Sales Channel, Order Priority.
+
+Requisitos del ejercicio:
+
+Lenguaje de programación: Java
+Base de datos: cualquiera relacional con JDBC
+
+Una vez terminado el ejercicio se fijará una fecha para exponerlo en la que se hará una demo de la aplicación, mostrándo lo realizado y se comentará lo programado.
+
+Se da como plazo para realizar el ejercicio, hasta el 19 de Diciembre.
+
+Aquí te dejo los links a los ficheros:
+
+
+

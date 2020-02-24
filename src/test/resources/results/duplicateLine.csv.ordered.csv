@@ -1,0 +1,4 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Order ID,Ship Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+Asia,Japan,Cereal,Offline,C,4/9/2010,161442649,5/11/2010,3322,206,117,683335,389039,294296
+North America,Canada,Vegetables,Online,M,11/6/2011,185941302,12/7/2011,3018,154,91,464953,274427,190526
+Middle East and North Africa,Libya,Cosmetics,Offline,M,10/17/2014,686800706,10/30/2014,8446,437,263,3692591,2224085,1468506
